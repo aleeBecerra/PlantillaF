@@ -1,0 +1,6 @@
+﻿  Pre_PC.cpp
+C:\Users\User\Downloads\TF-advances-main\Pre_PC\Pre_PC\Pre_PC\HashTable.h(17,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Downloads\TF-advances-main\Pre_PC\Pre_PC\Pre_PC\HashTable.h(22,31): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\User\Downloads\TF-advances-main\Pre_PC\Pre_PC\Pre_PC\Pre_PC.cpp(20,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\Downloads\TF-advances-main\Pre_PC\Pre_PC\Pre_PC\Pre_PC.cpp(76,70): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Pre_PC.vcxproj -> C:\Users\User\Downloads\TF-advances-main\Pre_PC\Pre_PC\x64\Debug\Pre_PC.exe

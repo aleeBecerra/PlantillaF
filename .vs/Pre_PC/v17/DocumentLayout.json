@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Pre_PC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|solutionrelative:Pre_PC\\Pre_PC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Vacas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|solutionrelative:Pre_PC\\Vacas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Ordenamiento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|solutionrelative:Pre_PC\\Ordenamiento.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|solutionrelative:Pre_PC\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\ArbolBinario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC1475EE-EA6A-4938-BC37-8BBE67602F83}|Pre_PC\\Pre_PC.vcxproj|solutionrelative:Pre_PC\\ArbolBinario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pre_PC.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Pre_PC.cpp",
+              "RelativeDocumentMoniker": "Pre_PC\\Pre_PC.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Pre_PC.cpp",
+              "RelativeToolTip": "Pre_PC\\Pre_PC.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T07:24:37.337Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArbolBinario.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\ArbolBinario.h",
+              "RelativeDocumentMoniker": "Pre_PC\\ArbolBinario.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\ArbolBinario.h",
+              "RelativeToolTip": "Pre_PC\\ArbolBinario.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T08:46:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashTable.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\HashTable.h",
+              "RelativeDocumentMoniker": "Pre_PC\\HashTable.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\HashTable.h",
+              "RelativeToolTip": "Pre_PC\\HashTable.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T08:30:47.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ordenamiento.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Ordenamiento.h",
+              "RelativeDocumentMoniker": "Pre_PC\\Ordenamiento.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Ordenamiento.h",
+              "RelativeToolTip": "Pre_PC\\Ordenamiento.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T08:17:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vacas.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Vacas.h",
+              "RelativeDocumentMoniker": "Pre_PC\\Vacas.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Cosas Bruce\\Ciclo 3 - Alg\\Pre_PC\\Pre_PC\\Vacas.h",
+              "RelativeToolTip": "Pre_PC\\Vacas.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T07:27:12.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
